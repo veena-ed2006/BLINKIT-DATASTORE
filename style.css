@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI';
+}
+
+.bg-floral {
+    background: linear-gradient(120deg, #fde2e4, #e0c3fc);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    width: 350px;
+    border-radius: 15px;
+}
